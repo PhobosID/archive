@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://mcnity.xyz/</title>
+  <link>https://mcnity.xyz/</link>
+
+<item>
+     <link>https://mcnity.xyz/</link>
+     <title>MCNITY NETWORK</title>
+     <description>MCNITY NETWORK</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mcnity.xyz/store</link>
+     <title>STORE | MCNITY NETWORK</title>
+     <description>STORE | MCNITY NETWORK</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mcnity.xyz/rules</link>
+     <title>RULEBOOK | MCNITY NETWORK</title>
+     <description>RULEBOOK | MCNITY NETWORK</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mcnity.xyz/vote</link>
+     <title>MCNITY VOTING PORTAL</title>
+     <description>MCNITY VOTING PORTAL</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mcnity.xyz/tutorial</link>
+     <title>TUTORIAL | MCNITY NETWORK</title>
+     <description>TUTORIAL | MCNITY NETWORK</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mcnity.xyz/tutorial/1</link>
+     <title>How to Claim Land on the Server</title>
+     <description>How to Claim Land on the Server</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mcnity.xyz/tutorial/4</link>
+     <title>How to Use Pwarp and Plot di MCNITY Network</title>
+     <description>How to Use Pwarp and Plot di MCNITY Network</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mcnity.xyz/tutorial/2</link>
+     <title>How to Install Advanced Enchantment for your tools on the Server</title>
+     <description>How to Install Advanced Enchantment for your tools on the Server</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>3</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://mcnity.xyz/tutorial/3</link>
+     <title>How to Make a Chest Shop on the MCNITY Network</title>
+     <description>How to Make a Chest Shop on the MCNITY Network</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>4</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
